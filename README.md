@@ -5,6 +5,7 @@ Page products
 
 
 Page customers
-![image](https://github.com/nawfalel1/micro-services-front/assets/106021874/3224fd7e-8c5b-49fe-8754-e5aae2b9069e)
+![image](https://github.com/nawfalel1/micro-services-front/assets/106021874/cad7981c-b533-4264-9f9d-f5aaa8de8a27)
+
 
 
